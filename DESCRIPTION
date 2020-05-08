@@ -1,0 +1,13 @@
+Package: gridfont
+Type: Package
+Title: Vector Font by Inconvergent
+Version: 0.1.0
+Author: mikefc
+Maintainer: mikefc <mikefc@coolbutuseless.com>
+Description: A vector font by Inconvergent.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.0
